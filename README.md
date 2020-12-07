@@ -1,8 +1,10 @@
-# azteca
+# Generating a Professional ReadMe file.
 
 ## ![badges](https://img.shields.io/badge/license-undefined-green)
+
 ## Description 
-Native pride
+In this project, I created a ReadMe file using node.js this way the clients could have at their hands a structured, professional ReadMe file promted by questions. This way they could focus on their project.
+---
 
 ## Table of Contents (Optional):
 Add a table of contents if your README is very long that way the user finds what they need.
@@ -11,40 +13,43 @@ Add a table of contents if your README is very long that way the user finds what
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
+---
 
 ## Installation
  What are your installations instructions? 
- Inquirer
+ The only installations is the package 'Inquierer". 
+---
 
 ## Usage 
 Using screenshots, show examples for use and lay out instructions.
-To install necessary dependencies, run the following command:
-npm i
+---
+
 ## Credits
-No  
-Collaborators (links):
+Collaborators (links): None. 
 
 Github profiles: 
 
 LinkedIn: 
 
 Email: 
+----
 
 ## License
 undefined 
 Protect your intellectual property by letting other developers know what they CAN and CANNOT do with your project. 
 Need help choosing a license, check out: [https://choosealicense.com/](https://choosealicense.com/)
-
 ---
+
 ## Tests 
 Provide the test for your application and show examples on how to run them.
-Not yet
+no.
+---
 
 ## Questions 
 
 Contact Information: 
 
-Email: BossPlayer123@hotmail.com 
+Email: Ivan.Sillasnavarro@gmail.com 
 
-Github username: BeastMode123
+Github username: Xicano619
 
