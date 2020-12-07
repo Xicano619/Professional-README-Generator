@@ -1,8 +1,8 @@
-# Generate ReadMe
+# azteca
 
-## ![badges](https://img.shields.io/badge/license-mit-green)
+## ![badges](https://img.shields.io/badge/license-undefined-green)
 ## Description 
-Create an server side application for clients so that they spend more time on project.
+Native pride
 
 ## Table of Contents (Optional):
 Add a table of contents if your README is very long that way the user finds what they need.
@@ -13,23 +13,22 @@ Add a table of contents if your README is very long that way the user finds what
 * [License](#license)
 
 ## Installation
-this application requires the dependencies: Inquire. 
-What are your installations instructions? 
+ What are your installations instructions? 
+ Inquirer
 
 ## Usage 
-this application requires the dependencies: Inquire. 
 Using screenshots, show examples for use and lay out instructions.
 To install necessary dependencies, run the following command:
 npm i
 ## Credits
-not yet.  
+No  
 Collaborators (links):
 
-Github profiles: xicano619 
+Github profiles: 
 
 LinkedIn: 
 
-Email: Ivan.sillasnavarro@gmail.com 
+Email: 
 
 ## License
 undefined 
@@ -39,5 +38,13 @@ Need help choosing a license, check out: [https://choosealicense.com/](https://c
 ---
 ## Tests 
 Provide the test for your application and show examples on how to run them.
-working on it.
+Not yet
+
+## Questions 
+
+Contact Information: 
+
+Email: BossPlayer123@hotmail.com 
+
+Github username: BeastMode123
 
